@@ -1,7 +1,7 @@
 Symmetry-Induced Mechanical Metamaterials
 ---------------------------------------------------------------------------------------------------------------------------------------------
-This repository contains the data utilized in the paper titled **"A Dataset Generation Framework for Symmetry-Induced Mechanical Metamaterials."
-**
+This repository contains the data utilized in the paper titled "A Dataset Generation Framework for Symmetry-Induced Mechanical Metamaterials."
+
 The samples topologies are generated utilizing the planes of symmetry from crystallography. The mechanical properties are computed using a numerical homogenization framework. The underlying solid base material has a Young’s modulus (Es) of 200 GPa, a Poisson’s ratio (νs) of 0.3, and a truss diameter of 0.025.
 
 There are two main files in this repository:
