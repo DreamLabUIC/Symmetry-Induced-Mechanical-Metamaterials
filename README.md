@@ -12,9 +12,12 @@ There are two main files in this repository:
    - Nodal positions
    - Bar connectivities
 
+
 2. The second file is related to all different symmetries and also includes samples in .csv format that can be represented in a graph representation (see the supplementary material of the main paper). It also includes .txt files that include:
    - Stiffness Tensor
    - Relative effective elastic properties (Young's modulus, shear modulus, Poisson's ratio in the three directional primary axes)
    - Nodal positions 
    - Bar connectivities
+
+     
 Please refer to the paper for detailed information on how the dataset was generated and how it can be utilized.
